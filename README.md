@@ -6,6 +6,6 @@ This work is based on a dataset of front-page articles scraped from a number of 
 - Average sentiment by publication by month 
 - Adjusted average sentiment by publication by month
 - Flesch Readability Score by publication
-- Topic Modeling by month for 2016
-- Topic Modeling by Publication
-- Topic Modeling using only named entities
+- Topic modeling by month for 2016
+- Topic modeling by Publication
+- Topic modeling using only named entities

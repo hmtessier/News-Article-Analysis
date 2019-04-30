@@ -11,5 +11,7 @@ This work is based on a dataset of front-page articles scraped from a number of 
   - Topic modeling by month for 2016
   - Topic modeling by Publication
   - Topic modeling using only named entities
+- Project.py : Initial data cleaning and sentiment plot code
+- DocumentComplexity.ipynb : Flesch Score and plot code
 
 **Topic model interactive visualizations will not display on default github view. To view, click nbviewer link in top right of notebook.**

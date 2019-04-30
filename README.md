@@ -15,3 +15,5 @@ This work is based on a dataset of front-page articles scraped from a number of 
 - DocumentComplexity.ipynb : Flesch Score and plot code
 
 **Topic model interactive visualizations will not display on default github view. To view, click nbviewer link in top right of notebook.**
+
+[Link to data (raw and cleaned .csv)](https://virginia.box.com/s/0xh4mw7x6khr5bdvuvsqq5qkzt9en8wd)

@@ -7,7 +7,7 @@ This work is based on a dataset of front-page articles scraped from a number of 
   - Average sentiment by publication by month 
   - Adjusted average sentiment by publication by month
   - Flesch Readability Score by publication
-- In [Topic Models Folder]   
+- In [Topic Models Folder](https://github.com/hmtessier/News-Article-Analysis/tree/master/Topic%20Models)  
   - Topic modeling by month for 2016
   - Topic modeling by Publication
   - Topic modeling using only named entities
